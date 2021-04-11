@@ -1,4 +1,4 @@
-# wechat_auto_reply
+# Wechat_Auto_Reply
 
 ## Using WXPY
 
